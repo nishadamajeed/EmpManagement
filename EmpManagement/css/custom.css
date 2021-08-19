@@ -1,0 +1,107 @@
+.mt-px-30 {
+    margin-top:30px !important;
+}
+
+.pg-ld {
+    width: 100%;
+    height: 100%;
+    z-index: 1000000000000000;
+    background: rgba(0,0,0,0.3);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.modal-dialog.def1 {
+    max-width: 700px;
+}
+
+.modal-dialog.def2 {
+    max-width: 900px;
+}
+
+.modal-dialog.def3 {
+    max-width: 1200px;
+}
+
+
+.ajax__tab_default .ajax__tab {
+    border: 0;
+    background: transparent !important;
+    padding: 1.3rem 1.5rem .2rem 1.5rem;
+    color: #000000;
+    margin: 0 !important;
+    height: 60px !important;
+}
+
+.ajax__tab .ajax__tab_active {
+    /*border-bottom: 3px solid #5646ff;*/
+    border-bottom: 3px solid #33b35a;
+    color: #33b35a;
+    /*color: #4d83ff;*/
+}
+
+.ajax__tab_xp .ajax__tab_inner {
+    height: 52px;
+}
+
+.ajax__tab_xp .ajax__tab_header {
+    border: 1px solid #f3f3f3 !important;
+    background-image: none !important;
+    font-family: inherit !important;
+    font-size: 20px !important;
+    font-weight: 300;
+}
+
+    .ajax__tab_xp .ajax__tab_header .ajax__tab_active .ajax__tab_outer {
+        background-image: none !important;
+        /*background-color: rgba(0, 0, 0, 0.03) !important;*/
+        background-color: rgb(237, 237, 237) !important;
+    }
+
+    .ajax__tab_xp .ajax__tab_header .ajax__tab_inner a {
+        color: #000000 !important;
+    }
+
+    .ajax__tab_xp .ajax__tab_header .ajax__tab_active .ajax__tab_inner {
+        background-image: none !important;
+        /*border-bottom: 3px solid #5646ff;*/
+        border-bottom: 3px solid #33b35a;
+        color: #33b35a;
+        font-weight: 400;
+    }
+
+    .ajax__tab_xp .ajax__tab_header .ajax__tab_active .ajax__tab_tab {
+        background-image: none !important;
+    }
+
+.ajax__tab_xp .ajax__tab_tab {
+    margin-left: 15px !important;
+    margin-right: 15px !important;
+}
+
+.ajax__tab_xp .ajax__tab_header .ajax__tab_outer {
+    border: 0;
+    background: transparent !important;
+    padding: 1rem 0rem .2rem 0rem;
+    color: #000000;
+    margin: 0 !important;
+    height: 67px !important;
+    background-image: none !important;
+}
+
+.ajax__tab_xp .ajax__tab_header .ajax__tab_inner {
+    background-image: none !important;
+}
+
+.ajax__tab_xp .ajax__tab_header .ajax__tab_tab {
+    background-image: none !important;
+    height: 44px !important;
+}
+
+.ajax__tab_xp .ajax__tab_body {
+    font-family: inherit !important;
+    border: none !important;
+}
